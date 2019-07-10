@@ -1,0 +1,17 @@
+{
+  "name": "font_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chenxuan <523764720@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fonteditor-core": "^1.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.2",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "start": "tsc && node index.js"
+  }
+}
